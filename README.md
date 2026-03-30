@@ -28,7 +28,8 @@ I like building systems that scale well, stay maintainable and keep complexity u
 
 ## :brain: Expertise
 
-- AWS solution architecture
+- CI/CD pipelines and deployment strategies
+- Observability, monitoring and operational excellence
 - Clean Architecture and Hexagonal Architecture
 - DDD, CQRS and event-driven systems
 - Infrastructure as Code
