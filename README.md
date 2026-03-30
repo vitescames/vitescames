@@ -8,9 +8,23 @@
 
 Senior Software Engineer working with tech since 2017.
 
-My main stack is `Java`, `Spring`, `Quarkus`, `Micronaut`, `AWS`, `Terraform`, `Python`, `Docker`, `Kubernetes`, `Kafka` and `Datadog`.
-
 I like building systems that scale well, stay maintainable and keep complexity under control.
+
+## :zap: Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
+  <img src="https://img.shields.io/badge/Micronaut-1F2937?style=for-the-badge&logo=micronaut&logoColor=white" alt="Micronaut" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+</p>
 
 ## :brain: Expertise
 
@@ -20,7 +34,7 @@ I like building systems that scale well, stay maintainable and keep complexity u
 - Infrastructure as Code
 - Clean Code, SOLID and design patterns
 
-## :tools: Focus
+## :hammer_and_wrench: Focus
 
 - Backend engineering
 - Cloud architecture on AWS
