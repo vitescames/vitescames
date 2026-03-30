@@ -1,14 +1,16 @@
 <h1 align="center">Hi, I'm Vithor Escames :wave:</h1>
 
 <p align="center">
-  Senior Software Engineer focused on backend architecture, cloud-native systems and scalable platforms.
+  Backend engineer focused on architecture, cloud-native systems and scalable platforms.
 </p>
 
 ## :rocket: About
 
-Senior Software Engineer working with tech since 2017.
+I'm a Senior Software Engineer working in tech since 2017.
 
-I like building systems that scale well, stay maintainable and keep complexity under control.
+My work is centered on backend engineering, cloud architecture on AWS and distributed systems, with a strong focus on maintainability, observability and long-term evolution.
+
+I enjoy turning complex business problems into simple, reliable solutions that scale well without losing clarity.
 
 ## :zap: Stack
 
